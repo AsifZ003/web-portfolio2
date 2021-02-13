@@ -115,3 +115,9 @@ body{
     margin-top: 150px;
     color:rgb(126, 114, 114)
 }
+.client{
+    height:500px;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
